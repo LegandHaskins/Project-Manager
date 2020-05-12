@@ -27,7 +27,7 @@ html {
 body {
  	height: 100%;
   background: #eeeeff;
-  font-family: 'Merriweather', serif;
+  font-family: 'Righteous', cursive;
 }
 
 .clearfix:before,
@@ -84,6 +84,7 @@ body {
 	font-size: 1.2em;
 	color: $dark;
 	font-weight: 100;
+	font-family: 'Righteous', cursive;
 }
 
 .index_row {
@@ -146,6 +147,7 @@ body {
 			height: 40px;
 			border-radius: 4px;
 			padding: 1em 2em;
+			font-family: 'Righteous', cursive;
 		}
 		input[type="submit"] {
 			background: rgba(250,250,250,.4);
